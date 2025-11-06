@@ -1,0 +1,12 @@
+[project]
+name = "arithmetic-sequence-from-sum-n-diff"
+version = "0.1.0"
+description = "Create an arithmetic sequence given the sum of the elements and the common difference."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.14.3",
+]
